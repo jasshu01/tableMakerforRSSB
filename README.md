@@ -1,4 +1,3 @@
 # tableMakerforRSSB
-this app is created for creating Lists of information for RSSB , if someone is not much a technical person to do that work on word or excel , this app provides a simple UI to complete task easily
-
+This application was designed to help you build RSSB records. This application gives a simple UI to do the work fast if someone can't do it on word or excel.
 https://jasshu01.github.io/tableMakerforRSSB/
